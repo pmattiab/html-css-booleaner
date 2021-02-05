@@ -68,3 +68,29 @@ table thead {
   background-color: deepskyblue;
   color: white;
 }
+
+footer {
+  margin-top: 15px;
+}
+
+.titolo_footer {
+  font-size: 17px;
+  color: gray;
+}
+
+.correlati {
+  color: white;
+  height: 250px;
+  width: 250px;
+  margin-top: 20px;
+  padding: 10px;
+  background-size: cover;
+}
+
+#correlato1 {
+  background-image: url("../img/graph.jpg");
+}
+
+#correlato2 {
+  background-image: url("../img/monitor.jpg");
+}
