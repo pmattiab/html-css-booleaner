@@ -43,3 +43,28 @@ h1 {
 .foto {
   margin-top: 10px;
 }
+
+.descrizione_foto {
+  font-size: 10px;
+}
+
+.body_articolo {
+  margin-top: 15px;
+}
+
+.evidenziato {
+  background-color: yellow;
+}
+
+.lista {
+  margin-top: 15px;
+}
+
+.tabella {
+  margin-top: 10px;
+}
+
+table thead {
+  background-color: deepskyblue;
+  color: white;
+}
