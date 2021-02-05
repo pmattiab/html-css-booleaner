@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+}
+
+.container {
+  width: 1024px;
+  margin: auto;
+}
+
+header {
+  background-color: deepskyblue;
+  background-image: url("../img/pattern.png");
+  background-size: 350px;
+}
+
+.logo {
+  height: 50px;
+  margin-top: 40px;
+}
+
+main {
+  margin-top: 10px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.autore {
+  color: gray;
+  font-size: 15px;
+}
+
+.autore span {
+  color: lightblue;
+}
+
+.data {
+  font-size: 13px;
+  color: gray;
+}
+
+.foto {
+  margin-top: 10px;
+}
